@@ -10,3 +10,7 @@ Minimalist Blinky program for the STM32F030 using only CMSIS.
 ## STM32F030-CMSIS-USART-lib
 + [https://github.com/sandynomike/STM32F030-CMSIS-USART-lib](https://github.com/sandynomike/STM32F030-CMSIS-USART-lib)<br>
 Simple library and application to give basic serial (RS-232) communication functionality to STM32F030.
+
+## Miscellaneous
++ [STM32F030-Delay-lib](https://github.com/sandynomike/STM32F030-Delay-lib)<br>
+Library to give microsecond delay and halt functionality to STM32F030 microcontroller.
