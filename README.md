@@ -13,13 +13,13 @@ Basic I2C library for the STM32F030 based on CMSIS (no HAL)
 + [STM32F030-CMSIS-I2C-AHT10-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-AHT10-lib)<br>
 Library and sample project to use the I2C AHT10 temperature and humidity sensor with CMSIS (no HAL) on the STM32F030
 
-## STM32F030-CMSIS-PWM
-+ [STM32F030-CMSIS-PWM-Blinky](https://github.com/ezdenki/STM32F030-CMSIS-PWM-Blinky)<br>
-Two simple programs that demonstrate basic PWM functionality by blinking LEDs using PWM using CMSIS on the STM32F030.
-
 ## STM32F030-CMSIS-LCD-lib
 + [STM32F030-CMSIS-LCD-lib](https://github.com/ezdenki/STM32F030-CMSIS-LCD-lib)<br>
 Library and simple test project to interface the STM32F030F4xx to a 16x2 (or other) LCD module.
+
+## STM32F030-CMSIS-PWM
++ [STM32F030-CMSIS-PWM-Blinky](https://github.com/ezdenki/STM32F030-CMSIS-PWM-Blinky)<br>
+Two simple programs that demonstrate basic PWM functionality by blinking LEDs using PWM using CMSIS on the STM32F030.
 
 ## STM32F030-CMSIS-USART-lib
 + [STM32F030-CMSIS-USART-lib](https://github.com/ezdenki/STM32F030-CMSIS-USART-lib)<br>
