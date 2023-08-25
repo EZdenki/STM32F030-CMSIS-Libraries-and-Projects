@@ -7,6 +7,10 @@ A step-by-step guide to setting up your Windows or GNU/Linux PC to program the S
 + [STM32F030-CMSIS-Blinky](https://github.com/ezdenki/STM32F030-CMSIS-Blinky)<br>
 Minimalist Blinky program for the STM32F030 using only CMSIS.
 
+## STM32F030-CMSIS-ADC
++ [STM32F030-CMSIS-ADC](https://github.com/EZdenki/STM32F030-CMSIS-ADC)<br>
+A simple project that demonstrates how to set up and use the analog-to-digital converter on the STM32F030. Reads the voltage from a potentiometer voltage divider and changes the blink-rate of an LED and outputs the ADC value to the serial terminal.
+ 
 ## STM32F030-CMSIS-I2C-lib
 + [STM32F030-CMSIS-I2C-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-lib)<br>
 Basic I2C library for the STM32F030 based on CMSIS (no HAL)
