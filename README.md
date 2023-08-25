@@ -1,4 +1,4 @@
-## STM32F030-Libraries-and-Projects
+## STM32F030 CMSIS Libraries and Projects
 Here you will find basic libraries and simple project to help you get started in programming the STM32F030 using only CMSIS -- no HAL or STM32CubeIDE, etc.
 
 ## Getting Started
