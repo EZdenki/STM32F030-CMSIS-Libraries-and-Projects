@@ -22,7 +22,10 @@ Library and sample project to use the I2C AHT10 temperature and humidity sensor 
 
 ## STM32F030-CMSIS-LCD
 + [STM32F030-CMSIS-LCD-lib](https://github.com/ezdenki/STM32F030-CMSIS-LCD-lib)<br>
-Library and simple test project to interface the STM32F030F4xx to a 16x2 (or other) LCD module.
+Library and simple test project to interface the STM32F030F4xx to a 16x2 (or other) LCD module in 4-bit mode.
++ [STM32F030-CMSIS-I2C-LCD-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-LCD-lib)<br>
+A simple library that gives basic initialization and write commands to an LCD connected to a PCF8574-based I2C
+LCD driver module.
 
 ## STM32F030-CMSIS-PWM
 + [STM32F030-CMSIS-PWM-Blinky](https://github.com/ezdenki/STM32F030-CMSIS-PWM-Blinky)<br>
