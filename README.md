@@ -14,7 +14,7 @@ A simple project that demonstrates how to set up and use the analog-to-digital c
 ## STM32F030-CMSIS-I2C-lib
 + [STM32F030-CMSIS-I2C-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-lib)<br>
 Basic I2C library for the STM32F030 based on CMSIS (no HAL)
-+ [STM32F030-CMSIS-I2C-LCD-lib/tree/main](https://github.com/EZdenki/STM32F030-CMSIS-I2C-LCD-lib/tree/main)<br>
++ [STM32F030-CMSIS-I2C-LCD-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-LCD-lib)<br>
 A simple library that gives basic initialization and write commands to an LCD connected to a PCF8574-based I2C
 LCD driver module.
 + [STM32F030-CMSIS-I2C-AHT10-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-AHT10-lib)<br>
