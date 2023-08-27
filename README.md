@@ -11,7 +11,7 @@ Minimalist Blinky program for the STM32F030 using only CMSIS.
 + [STM32F030-CMSIS-ADC](https://github.com/EZdenki/STM32F030-CMSIS-ADC)<br>
 A simple project that demonstrates how to set up and use the analog-to-digital converter on the STM32F030. Reads the voltage from a potentiometer voltage divider and changes the blink-rate of an LED and outputs the ADC value to the serial terminal.
  
-## STM32F030-CMSIS-I2C-lib
+## STM32F030-CMSIS-I2C
 + [STM32F030-CMSIS-I2C-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-lib)<br>
 Basic I2C library for the STM32F030 based on CMSIS (no HAL)
 + [STM32F030-CMSIS-I2C-LCD-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-LCD-lib)<br>
@@ -20,7 +20,7 @@ LCD driver module.
 + [STM32F030-CMSIS-I2C-AHT10-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-AHT10-lib)<br>
 Library and sample project to use the I2C AHT10 temperature and humidity sensor with CMSIS (no HAL) on the STM32F030
 
-## STM32F030-CMSIS-LCD-lib
+## STM32F030-CMSIS-LCD
 + [STM32F030-CMSIS-LCD-lib](https://github.com/ezdenki/STM32F030-CMSIS-LCD-lib)<br>
 Library and simple test project to interface the STM32F030F4xx to a 16x2 (or other) LCD module.
 
@@ -28,7 +28,7 @@ Library and simple test project to interface the STM32F030F4xx to a 16x2 (or oth
 + [STM32F030-CMSIS-PWM-Blinky](https://github.com/ezdenki/STM32F030-CMSIS-PWM-Blinky)<br>
 Two simple programs that demonstrate basic PWM functionality by blinking LEDs using PWM using CMSIS on the STM32F030.
 
-## STM32F030-CMSIS-USART-lib
+## STM32F030-CMSIS-USART
 + [STM32F030-CMSIS-USART-lib](https://github.com/ezdenki/STM32F030-CMSIS-USART-lib)<br>
 Simple library and application to give basic serial (RS-232) communication functionality to STM32F030.
 
