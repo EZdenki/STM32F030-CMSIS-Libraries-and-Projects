@@ -19,6 +19,8 @@ A simple library that gives basic initialization and write commands to an LCD co
 LCD driver module.
 + [STM32F030-CMSIS-I2C-AHT10-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-AHT10-lib)<br>
 Library and sample project to use the I2C AHT10 temperature and humidity sensor with CMSIS (no HAL) on the STM32F030
++ [STM32F030-CMSIS-I2C-EEPROM-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-EEPROM-lib)<br>
+Library to read/write 24LC64 I2C EEPROM with an STM32F030F4 using CMSIS. Iincludes memory-monitor application that uses the serial port. 
 
 ## STM32F030-CMSIS-LCD
 + [STM32F030-CMSIS-LCD-lib](https://github.com/ezdenki/STM32F030-CMSIS-LCD-lib)<br>
@@ -34,6 +36,8 @@ Two simple programs that demonstrate basic PWM functionality by blinking LEDs us
 ## STM32F030-CMSIS-USART
 + [STM32F030-CMSIS-USART-lib](https://github.com/ezdenki/STM32F030-CMSIS-USART-lib)<br>
 Simple library and application to give basic serial (RS-232) communication functionality to STM32F030.
++ [STM32F030-CMSIS-I2C-EEPROM-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-EEPROM-lib)<br>
+Library to read/write 24LC64 I2C EEPROM with an STM32F030F4 using CMSIS. Iincludes memory-monitor application that uses the serial port. 
 
 ## Miscellaneous
 + [STM32F030-CMSIS-I2C-AHT10-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-AHT10-lib)<br>
