@@ -20,7 +20,10 @@ LCD driver module.
 + [STM32F030-CMSIS-I2C-AHT10-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-AHT10-lib)<br>
 Library and sample project to use the I2C AHT10 temperature and humidity sensor with CMSIS (no HAL) on the STM32F030
 + [STM32F030-CMSIS-I2C-EEPROM-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-EEPROM-lib)<br>
-Library to read/write 24LC64 I2C EEPROM with an STM32F030F4 using CMSIS. Iincludes memory-monitor application that uses the serial port. 
+Library to read/write 24LC64 I2C EEPROM with an STM32F030F4 using CMSIS. Iincludes memory-monitor application that uses the serial port.
++ [STM32F030-CMSIS-1-Wire-lib](https://github.com/EZdenki/STM32F030-CMSIS-1-Wire-lib)<br>
+A simple 1-Wire library for the STM32F030. Includes a sample project to read a single attached DS18B20 1-Wire
+temperature sensor and display the temperature on a 16x2 LCD connected with an I2C LCD driver module.
 
 ## STM32F030-CMSIS-LCD
 + [STM32F030-CMSIS-LCD-lib](https://github.com/ezdenki/STM32F030-CMSIS-LCD-lib)<br>
@@ -28,6 +31,9 @@ Library and simple test project to interface the STM32F030F4xx to a 16x2 (or oth
 + [STM32F030-CMSIS-I2C-LCD-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-LCD-lib)<br>
 A simple library that gives basic initialization and write commands to an LCD connected to a PCF8574-based I2C
 LCD driver module.
++ [STM32F030-CMSIS-1-Wire-lib](https://github.com/EZdenki/STM32F030-CMSIS-1-Wire-lib)<br>
+A simple 1-Wire library for the STM32F030. Includes a sample project to read a single attached DS18B20 1-Wire
+temperature sensor and display the temperature on a 16x2 LCD connected with an I2C LCD driver module.
 
 ## STM32F030-CMSIS-PWM
 + [STM32F030-CMSIS-PWM-Blinky](https://github.com/ezdenki/STM32F030-CMSIS-PWM-Blinky)<br>
@@ -39,7 +45,15 @@ Simple library and application to give basic serial (RS-232) communication funct
 + [STM32F030-CMSIS-I2C-EEPROM-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-EEPROM-lib)<br>
 Library to read/write 24LC64 I2C EEPROM with an STM32F030F4 using CMSIS. Iincludes memory-monitor application that uses the serial port. 
 
+## STM32F030-CMSIS-1-Wire
++ [STM32F030-CMSIS-1-Wire-lib](https://github.com/EZdenki/STM32F030-CMSIS-1-Wire-lib)<br>
+A simple 1-Wire library for the STM32F030. Includes a sample project to read a single attached DS18B20 1-Wire
+temperature sensor and display the temperature on a 16x2 LCD connected with an I2C LCD driver module.
+
 ## Miscellaneous
++ [STM32F030 CMSIS DS12B20 Project](https://github.com/EZdenki/STM32F030-CMSIS-1-Wire-lib)<br>
+1-Wire library and sample project to read a single attached DS18B20 1-Wire
+temperature sensor and display the temperature on a 16x2 LCD connected with an I2C LCD driver module.
 + [STM32F030-CMSIS-I2C-AHT10-lib](https://github.com/EZdenki/STM32F030-CMSIS-I2C-AHT10-lib)<br>
 Library and sample project to use the I2C AHT10 temperature and humidity sensor with CMSIS (no HAL) on the STM32F030
 + [STM32F030-Delay-lib](https://github.com/ezdenki/STM32F030-Delay-lib)<br>
