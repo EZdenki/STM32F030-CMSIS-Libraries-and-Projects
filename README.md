@@ -38,7 +38,7 @@ temperature sensor and display the temperature on a 16x2 LCD connected with an I
 ## STM32F030-CMSIS-PWM
 + [STM32F030-CMSIS-PWM-Blinky](https://github.com/ezdenki/STM32F030-CMSIS-PWM-Blinky)<br>
 Two simple programs that demonstrate basic PWM functionality by blinking LEDs using PWM using CMSIS on the STM32F030.
-+ [How to Modulate PWM or Pause PWM and Force PWM Output High or Low](https://github.com/EZdenki/MyStuff/blob/main/STM32-Hints.md#modulate-or-break-a-pwm-signal-to-a-high-or-low-state)<br>
++ [Modulate a PWM Signal or Break a PWM Signal to a High or Low State](https://github.com/EZdenki/MyStuff/blob/main/STM32-Hints.md#modulate-or-break-a-pwm-signal-to-a-high-or-low-state)<br>
 
 ## STM32F030-CMSIS-USART
 + [STM32F030-CMSIS-USART-lib](https://github.com/ezdenki/STM32F030-CMSIS-USART-lib)<br>
