@@ -25,6 +25,10 @@ Library to read/write 24LC64 I2C EEPROM with an STM32F030F4 using CMSIS. Iinclud
 A simple 1-Wire library for the STM32F030. Includes a sample project to read a single attached DS18B20 1-Wire
 temperature sensor and display the temperature on a 16x2 LCD connected with an I2C LCD driver module.
 
+## STM32F030-CMSIS-Basic-Interrupts
++ [STM32F030 CMSIS Basic Interrupts](https://github.com/EZdenki/STM32F030-CMSIS-Basic-Interrupts)<br>
+Examples that demostrate how to set up and use interrupts to act on GPIO (button) input, timer overflow, or using SysTick (the system clock).
+
 ## STM32F030-CMSIS-LCD
 + [STM32F030-CMSIS-LCD-lib](https://github.com/ezdenki/STM32F030-CMSIS-LCD-lib)<br>
 Library and simple test project to interface the STM32F030F4xx to a 16x2 (or other) LCD module in 4-bit mode using 6 IO lines between the LCD module and the STM32F030.
