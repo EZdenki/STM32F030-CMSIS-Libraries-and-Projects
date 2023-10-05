@@ -28,6 +28,8 @@ temperature sensor and display the temperature on a 16x2 LCD connected with an I
 ## STM32F030-CMSIS-Basic-Interrupts
 + [STM32F030 CMSIS Basic Interrupts](https://github.com/EZdenki/STM32F030-CMSIS-Basic-Interrupts)<br>
 Examples that demostrate how to set up and use interrupts to act on GPIO (button) input, timer overflow, or using SysTick (the system clock).
++ [STM32F030 CMSIS Sleep and Wake Example](https://github.com/EZdenki/STM32F030-CMSIS-Sleep-and-Wake-Example)<br>
+Demonstrates how to enter and wake from various sleep modes of the STM32F030 microprocessor using CMSIS directives (no HAL). 
 
 ## STM32F030-CMSIS-LCD
 + [STM32F030-CMSIS-LCD-lib](https://github.com/ezdenki/STM32F030-CMSIS-LCD-lib)<br>
@@ -44,6 +46,10 @@ temperature sensor and display the temperature on a 16x2 LCD connected with an I
 Two simple programs that demonstrate basic PWM functionality by blinking LEDs using PWM using CMSIS on the STM32F030.
 + [Modulate a PWM Signal or Break a PWM Signal to a High or Low State](https://github.com/EZdenki/MyStuff/blob/main/STM32-Hints.md#modulate-or-break-a-pwm-signal-to-a-high-or-low-state)<br>
 Includes explanation from the reference manual and sample code.
+
+## STM32F030-CMSIS-Sleep-and-Wake-Example
++ [STM32F030 CMSIS Sleep and Wake Example](https://github.com/EZdenki/STM32F030-CMSIS-Sleep-and-Wake-Example)<br>
+Demonstrates how to enter and wake from various sleep modes of the STM32F030 microprocessor using CMSIS directives (no HAL). 
 
 ## STM32F030-CMSIS-USART
 + [STM32F030-CMSIS-USART-lib](https://github.com/ezdenki/STM32F030-CMSIS-USART-lib)<br>
